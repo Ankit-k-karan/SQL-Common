@@ -1,0 +1,586 @@
+Folder PATH listing
+Volume serial number is 923A-9831
+D:.
+|   list.txt
+|   
++---GRKY
+|   |   01no difference in md trades.sql
+|   |   06 district sector trade --dummy data.sql
+|   |   06 district sector trade working.sql
+|   |   07 TC Job Role Details.sql
+|   |   Duplcacy in SMART TC details.xlsx
+|   |   Expression-Of-Interest-(EOI)-for-GKRA-24-08-2020.pdf
+|   |   TC Job Role Details -upload.xlsx
+|   |   TC Job Role Details.xlsx
+|   |   
+|   +---3 district  new
+|   |       2 job roles insert.sql
+|   |       Copy of Job Roles Sheet_GKRA (3 Districts).xlsx
+|   |       Copy of Target Allocation sheet v2.xlsx
+|   |       Copy of Target Allocation sheet.xlsx
+|   |       insert 51 record for district trade and district target.sql
+|   |       insert 51 record for district trade.sql
+|   |       
+|   +---Algorithm Algo
+|   |   |   10 .. final data to share with trade.sql
+|   |   |   Allocation final with trades.xlsx
+|   |   |   
+|   |   +---15 Sept 2020
+|   |   |       01 Ranking first cut.sql
+|   |   |       04 Allocated -- TP.sql
+|   |   |       10 .. final data to share.sql
+|   |   |       11 NSDC_Allowed_TC_0827.sql
+|   |   |       12 Ranking.sql
+|   |   |       13 Allocated --Employer.sql
+|   |   |       15 VW_NSDC_DISTRICT_PRIORITY_v2.sql
+|   |   |       Allocation first cut.xlsx
+|   |   |       Allocation v2.xlsx
+|   |   |       
+|   |   +---21 Sept 2020
+|   |   |       01 Ranking first cut.sql
+|   |   |       04 Allocated -- TP.sql
+|   |   |       05 Allocated P6 to P9.sql
+|   |   |       10 .. final data to share.sql
+|   |   |       Allocation 20200921.xlsx
+|   |   |       Allocation V2.xlsx
+|   |   |       Allocation V2_1.xlsx
+|   |   |       Allocation V3.xlsx
+|   |   |       
+|   |   \---22 Sept 2020
+|   |           01 Ranking first cut.sql
+|   |           04 Allocated -- TP.sql
+|   |           05 Allocated P6 to P9.sql
+|   |           10 .. final data to share.sql
+|   |           Allocation 20200922 V1 user.xlsx
+|   |           Allocation 20200922 V1.xlsx
+|   |           Allocation 20200922 V2 user.xlsx
+|   |           Allocation 20200922 V3.xlsx
+|   |           Allocation 20200922.xlsx
+|   |           
+|   +---Allocation
+|   |       Cancel TC target new.sql
+|   |       Cancel TC target new_ evening 20200922.sql
+|   |       capacity _working.sql
+|   |       Copy of PMKVY_Capacity_20072020.xlsx
+|   |       Copy of TCs with Cancelled Targets_22092020_new.xlsx
+|   |       PMKVY_Capacity.sql
+|   |       PMKVY_Capacity_20072020 upload.xlsx
+|   |       TC job role capacity -644 records.sql
+|   |       TC Job role Capacity Details_17092020.xlsx
+|   |       TCs with Cancelled Targets.xlsx
+|   |       
+|   +---Live Scripts
+|   |       00 update district name.sql
+|   |       000 Truncate SDMS tables.sql
+|   |       01 Final List of Job roles_RFP_17.06.2019.xlsx
+|   |       01 update sector Name.sql
+|   |       02 create and insert DistrictTarget.sql
+|   |       02 District Wise Target Distribution from MSDE.xlsx
+|   |       03 Centre Cancel Target.sql
+|   |       03 TCs with Cancelled Targets.xlsx
+|   |       04 05 28-Aug-2020-TP TC Details.xlsx
+|   |       04 NSDC_SDMS_TP_DETAIL.sql
+|   |       05 NSDC_SDMS_TC_DETAIL.sql
+|   |       
+|   \---New
+|           00 Insert new trades in md_trades master.sql
+|           04 remove duplicate  NSDC_SMS_TC_DETAILS.sql
+|           04 Update TP name NSDC_SDMS_TP_DETAIL.sql
+|           04-Sept-2020-TP TC Details.xlsx
+|           06 DistrictJobrole final.sql
+|           10 update state and district id in NSDC_SDMS_TC_Details.sql
+|           11 delete duplicate TC.sql
+|           12 TC enrolled trined.sql
+|           13 Additional TP.sql
+|           14 additional TC.sql
+|           15 update state and district ID.sql
+|           16 additionl district Job role.sql
+|           17 Additional TC Job Role.sql
+|           18  Update TP Spoc details --One india.sql
+|           19 update TP spoc --GURU KRIPA SKILLS.sql
+|           20 Additional cancel target.sql
+|           21 additional TC qpcode.sql
+|           Copy of Additional district demand job roles_08092020.xlsx
+|           Copy of Additional TC job roles for PMKKs.xlsx
+|           Copy of Additonal TCs of TPs with cancelled targets_15092020.xlsx
+|           Copy of Data of TCs left out_cancelled target TCs.xlsx
+|           Copy of Duplicate Details.xlsx
+|           Copy of Duplicate.xlsx
+|           Copy of TC Job role TC040553_11092020 additional.xlsx
+|           District job roles 04092020.xlsx
+|           
++---RFP 1
+|   |   01 insert threshold1.sql
+|   |   Copy of District priority.xlsx
+|   |   Copy of Monitoring_threshold v1.0.xlsx
+|   |   Copy of threshold v1.0.xlsx
+|   |   district and state update.sql
+|   |   district priority master.sql
+|   |   district priority.xlsx
+|   |   GetTrainingTargetDetailByTradeID.sql
+|   |   insert threshold2.sql
+|   |   Invalid Tp for category 4 section 1.5.sql
+|   |   Organization Profile - NSDC RFP.docx
+|   |   PIA with email.xlsx
+|   |   PIA with proposal in different category.xlsx
+|   |   Proposal detail -- dd approved 240.xlsx
+|   |   Proposal details v1 General no cap.xlsx
+|   |   Proposal details v15_tc10.xlsx
+|   |   Proposal details v16_tc10.xlsx
+|   |   Proposal details v17_tc10.xlsx
+|   |   Proposal details v2.xlsx
+|   |   Proposal details v3.xlsx
+|   |   Proposal details v4 -- after placement changes.xlsx
+|   |   Proposal details v5.xlsx
+|   |   Proposal details v6.xlsx
+|   |   Proposal details v7.xlsx
+|   |   Proposal details v8.xlsx
+|   |   Proposal details.xlsx
+|   |   Proposal_TP_ProfileType.xlsx
+|   |   Request_for_Proposal_PMKVY_(2018-19)_31st_July.pdf
+|   |   Revised_applicable_Job_Roles_for_PMKVY_FY_2018-20.pdf
+|   |   rnkssss to excel.sql
+|   |   scoring & ranking  & target Allocated v1.xlsx
+|   |   scoring & ranking  & target Allocated v2.xlsx
+|   |   scoring & ranking v1.xlsx
+|   |   Scoring calculation.sql
+|   |   scoring v1.xlsx
+|   |   scoring v2.xlsx
+|   |   script for unsderserve and aspirational district.sql
+|   |   Sp_getpiacategory.sql
+|   |   target allocated.sql
+|   |   target allocated_v2.sql
+|   |   Target Allocation through RFP- 03092018.docx
+|   |   TP Registration - NSDC - ver 2.docx
+|   |   TP Registration - NSDC.docx
+|   |   
+|   +---20190227
+|   |       List TPs updated (1).xlsx
+|   |       
+|   +---data
+|   |       Copy of sector_65.xlsx
+|   |       sector 65.xlsx
+|   |       
+|   +---data migration
+|   |       SDMS_ TC_details_31.07.2018.xlsx
+|   |       SMART Data_RFP for Hard Shell_10.08.2018.xlsx
+|   |       TC List_Target Allocation_FY18-19_10082018.xlsx
+|   |       
+|   +---master data
+|   |   |   01 scoring master.sql
+|   |   |   01 script for SMART IP.sql
+|   |   |   01 scroing 31082018 sheet.sql
+|   |   |   02 CREATE SDMS TP DETAILS TABLE.sql
+|   |   |   02 scoring master values 31082018.sql
+|   |   |   02 scoring master values.sql
+|   |   |   03 NSDC_SDMS_TP_DETAIL INSERT.sql
+|   |   |   04 NSDC_SMART_TC_DETAIL.sql
+|   |   |   05 NSDC_SMART_TC_DETAIL insert.sql
+|   |   |   05b NSDC_SMART_TC_DETAIL insert--2.sql
+|   |   |   06 NSDC_SDMS_TC_DETAIL.sql
+|   |   |   07 NSDC_SDMS_TC_DETAIL insert.sql
+|   |   |   08 NSDC_SDMS_TC_DETAIL update targets.sql
+|   |   |   09 NSDC_SDMS_TC_ROLES insert.sql
+|   |   |   10 update smart id.sql
+|   |   |   12 NSDC_TARGET.sql
+|   |   |   Copy of List of Districts in India (002).xlsx
+|   |   |   Copy of Scoring Matrix 31082018 (002).xlsx
+|   |   |   Mismatch in Smart TP.xlsx
+|   |   |   script for SDMS org.sql
+|   |   |   script for SDMS.sql
+|   |   |   sdms district mapping.xlsx
+|   |   |   SDMS_ TC_details_31.07.2018.xlsx
+|   |   |   SMART Data_RFP for Hard Shell_10.08.2018.xlsx
+|   |   |   smart district mapping.xlsx
+|   |   |   TC List_Target Allocation_FY18-19_10082018.xlsx
+|   |   |   
+|   |   \---trade district
+|   |           1 drop all existing constraint --- sector.sql
+|   |           2. insert new sectors.sql
+|   |           3. insert new trades.sql
+|   |           4.Md_Trades_Pair.sql
+|   |           5. update embedded duration 2.sql
+|   |           6. dependent table working.sql
+|   |           7. Add constraints.sql
+|   |           8. List 3 and 4 pending 28 trades.sql
+|   |           9.  add 25 trades new.sql
+|   |           Copy of Placement and Retention Data to Migrate in STEM.xlsx
+|   |           insert district sector for delhi.sql
+|   |           NSDC districts.xlsx
+|   |           NSDC trades.xlsx
+|   |           
+|   +---Migration sdms
+|   |       01 SDMS TP.sql
+|   |       02 Monitoring flag.xlsx
+|   |       02 SDMS TC detail.sql
+|   |       03 SDMS TC Role insert.sql
+|   |       04 NSDC_SDMS_TC_DETAIL update targets.sql
+|   |       05 monitoring flag.sql
+|   |       06 update district name.sql
+|   |       07 disrtict category.sql
+|   |       08 district sector combination.sql
+|   |       09 district sector c2.sql
+|   |       Copy of District Sector Combination - Copy.xlsx
+|   |       Copy of District Sector Combination.xlsx
+|   |       Copy of STT_details_02sept2018 (002).xlsx
+|   |       District Type For RFP31082018.xlsx
+|   |       
+|   +---NSDC--ANkit work
+|   |   |   New PIA Role map.sql
+|   |   |   
+|   |   +---final work 20190212
+|   |   |       Copy of sheet updation 12 feb (003).xlsx
+|   |   |       new_ 65 with sectors.sql
+|   |   |       script to save final data of 20190111.sql
+|   |   |       update district of proposal.sql
+|   |   |       update target from backend.sql
+|   |   |       
+|   |   \---Re_Align_TC_ProposaLScript
+|   |       +---V1_20190109
+|   |       |   |   00 VersionScript.sql
+|   |       |   |   01 DropRank_Table_V2.sql
+|   |       |   |   01 TCSiZe.sql
+|   |       |   |   03 Scorining.sql
+|   |       |   |   04 ranking calcultion.sql
+|   |       |   |   05 ranking priority.sql
+|   |       |   |   06 ranking for global pool.sql
+|   |       |   |   07 for global pool.sql
+|   |       |   |   Test_Script.sql
+|   |       |   |   
+|   |       |   \---05 NSDC NEWw 240 Target Algo
+|   |       |           01_Target  Script.sql
+|   |       |           02_Allocated Target Sript.sql
+|   |       |           03 score pivot script.sql
+|   |       |           04_Report Script.sql
+|   |       |           
+|   |       +---V1_20190109_0
+|   |       |   |   00 VersionScript.sql
+|   |       |   |   01 DropRank_Table_V2.sql
+|   |       |   |   01 TCSiZe.sql
+|   |       |   |   03 Scorining.sql
+|   |       |   |   04 ranking calcultion.sql
+|   |       |   |   05 ranking priority.sql
+|   |       |   |   06 ranking for global pool.sql
+|   |       |   |   07 for global pool.sql
+|   |       |   |   Test_Script.sql
+|   |       |   |   
+|   |       |   \---05 NSDC NEWw 240 Target Algo
+|   |       |           01_Target  Script.sql
+|   |       |           02_Allocated Target Sript.sql
+|   |       |           03 score pivot script.sql
+|   |       |           04_Report Script.sql
+|   |       |           
+|   |       +---V_20190108
+|   |       |   |   01 TCSiZe.sql
+|   |       |   |   02 ranking calcultion.sql
+|   |       |   |   02 Scorining.sql
+|   |       |   |   03 DropRank_Table_V2.sql
+|   |       |   |   04 ranking priority.sql
+|   |       |   |   Test_Script.sql
+|   |       |   |   
+|   |       |   \---04 NSDC NEWw 240 Target Algo
+|   |       |           01_Target  Script.sql
+|   |       |           02_Allocated Target Sript.sql
+|   |       |           03 score pivot script.sql
+|   |       |           04_Report Script.sql
+|   |       |           
+|   |       +---v_20190116
+|   |       |       01 find eligible proposal after 2300.sql
+|   |       |       06 ranking for global pool.sql
+|   |       |       07 addition of all proposal after gicving rank to 2219.sql
+|   |       |       08 for global pool.sql
+|   |       |       
+|   |       +---v_20190130_Sector
+|   |       |   |   00 VersionScript.sql
+|   |       |   |   01 DropRank_Table_V2.sql
+|   |       |   |   03 Scorining.sql
+|   |       |   |   
+|   |       |   \---05 NSDC NEWw 240 Target Algo
+|   |       |           01_Target  Script.sql
+|   |       |           02_Allocated Target Sript.sql
+|   |       |           03 score pivot script.sql
+|   |       |           04_Report Script.sql
+|   |       |           not 06 ranking for global pool.sql
+|   |       |           
+|   |       +---v_20190205_Sector
+|   |       |   |   00 VersionScript.sql
+|   |       |   |   01 DropRank_Table_V2.sql
+|   |       |   |   01 find eligible proposal after 2300.sql
+|   |       |   |   01 TCSiZe.sql
+|   |       |   |   03 Scorining.sql
+|   |       |   |   04 terget Scoring Scorining.sql
+|   |       |   |   not 04 ranking calcultion.sql
+|   |       |   |   not 05 ranking priority.sql
+|   |       |   |   not 06 ranking for global pool.sql
+|   |       |   |   not 07 addition of all proposal after gicving rank to 2219.sql
+|   |       |   |   not 07 for global pool.sql
+|   |       |   |   not 08 for global pool.sql
+|   |       |   |   Test_Script.sql
+|   |       |   |   
+|   |       |   \---05 NSDC NEWw 240 Target Algo
+|   |       |           01_Target  Script.sql
+|   |       |           02_Allocated Target Sript.sql
+|   |       |           03 score pivot script.sql
+|   |       |           04_Report Script.sql
+|   |       |           05_Version table Script.sql
+|   |       |           not 06 ranking for global pool.sql
+|   |       |           Proposal_Sector_Tergate_list20190205.xlsx
+|   |       |           
+|   |       +---v_20190207_Sector
+|   |       |   |   00 VersionScript.sql
+|   |       |   |   01 DropRank_Table_V2.sql
+|   |       |   |   03 Scorining.sql
+|   |       |   |   Proposal_List_20190207.xlsx
+|   |       |   |   
+|   |       |   \---05 NSDC NEWw 240 Target Algo
+|   |       |           00 ranking for global pool.sql
+|   |       |           01_Target  Script.sql
+|   |       |           02_Allocated Target Sript.sql
+|   |       |           03 score pivot script.sql
+|   |       |           04_Report Script.sql
+|   |       |           05_Version table Script.sql
+|   |       |           
+|   |       \---v_20190212_Sector
+|   |           |   00 VersionScript.sql
+|   |           |   01 DropRank_Table_V2.sql
+|   |           |   03 Scorining.sql
+|   |           |   Proposal_List_20190207.xlsx
+|   |           |   
+|   |           \---05 NSDC NEWw 240 Target Algo
+|   |                   00 ranking for global pool.sql
+|   |                   01_Target  Script --not required.sql
+|   |                   02_Allocated Target Sript.sql
+|   |                   03 score pivot script.sql
+|   |                   04_Report Script.sql
+|   |                   05_Version table Script.sql
+|   |                   06 sector update in rank table.sql
+|   |                   
+|   +---Score ranking
+|   |       01 to execute scoring sp.sql
+|   |       02 ranking calcultion.sql
+|   |       03 ranking priority.sql
+|   |       05 Target Allocation through RFP- 03092018 - Copy.sql
+|   |       06 Target Allocation through RFP- 03092018v2.sql
+|   |       target condition.sql
+|   |       validate target.sql
+|   |       
+|   +---Score ranking v2
+|   |       01 to execute scoring sp.sql
+|   |       02 ranking calcultion.sql
+|   |       03 ranking priority.sql
+|   |       05 Target Allocation through RFP- 03092018 - Copy.sql
+|   |       06 Target Allocation through RFP- 03092018v2.sql
+|   |       07 for global pool.sql
+|   |       111 score pivot script.sql
+|   |       target condition.sql
+|   |       validate target.sql
+|   |       
+|   +---Scoring for dd approved 240
+|   |       222 target allocated.sql
+|   |       
+|   +---scoring ranking -All generic no district validation
+|   |       01 to execute scoring sp.sql
+|   |       02 ranking calcultion.sql
+|   |       03 ranking priority.sql
+|   |       05 Target AllocationRank 1 RFP- 13092018v3.sql
+|   |       06 ranking for global pool.sql
+|   |       07 for global pool.sql
+|   |       111 score pivot script.sql
+|   |       222 target allocated_v4.sql
+|   |       target condition.sql
+|   |       validate target.sql
+|   |       
+|   +---scoring ranking v3
+|   |       01 to execute scoring sp.sql
+|   |       02 ranking calcultion.sql
+|   |       03 ranking priority.sql
+|   |       05 Target AllocationRank 1 RFP- 13092018v3.sql
+|   |       06 ranking for global pool.sql
+|   |       07 for global pool.sql
+|   |       111 score pivot script.sql
+|   |       target condition.sql
+|   |       validate target.sql
+|   |       
+|   +---scoring ranking v4 10TC
+|   |       01 to execute scoring sp.sql
+|   |       02 ranking calcultion.sql
+|   |       03 ranking priority.sql
+|   |       05 Target AllocationRank 1 RFP- 13092018v3.sql
+|   |       06 ranking for global pool.sql
+|   |       07 for global pool.sql
+|   |       111 score pivot script.sql
+|   |       222 target allocated_v4.sql
+|   |       target condition.sql
+|   |       validate target.sql
+|   |       
+|   \---scoring ranking-- 20181212
+|           01 to execute scoring sp.sql
+|           02 ranking calcultion.sql
+|           03 ranking priority.sql
+|           05 Target AllocationRank 1 RFP- 13092018v3.sql
+|           06 ranking for global pool.sql
+|           07 for global pool.sql
+|           111 score pivot script.sql
+|           222 target allocated.sql
+|           target condition.sql
+|           validate target.sql
+|           
++---RFP 2019
+|   |   17.05.19 RPL Application development.docx
+|   |   29.04.19 Proposal Mgt System Draft Requirements.docx
+|   |   allowed district.sql
+|   |   Copy of Copy of Scoring Matrix 23072019 v2 (003).xlsx
+|   |   Copy of Scoring Matrix 23072019 v2 (002).xlsx
+|   |   NEW RFP 2019.docx
+|   |   OneDrive_2019-06-17.zip
+|   |   Request for Proposal -Queries 27 may.docx
+|   |   Request for Proposal -Queries.docx
+|   |   
+|   +---Allocation algo
+|   |   +---04 Sept 2019-- No new Tp
+|   |   |       01 NSDC_Allowed_TC_0827.sql
+|   |   |       02 Ranking.sql
+|   |   |       03 Allocated --Employer.sql
+|   |   |       04 Allocated -- TP.sql
+|   |   |       05 VW_NSDC_DISTRICT_PRIORITY_v2.sql
+|   |   |       10 .. final data to share.sql
+|   |   |       district type1 insert.sql
+|   |   |       district type2 insert.sql
+|   |   |       district type3 insert.sql
+|   |   |       target allocation v5 20190904 -- only existing.xlsx
+|   |   |       
+|   |   +---08 Aug 2019
+|   |   |       01 Ranking.sql
+|   |   |       02 NSDC_Allowed_TC.sql
+|   |   |       04 NSDC_PriorityFactor.sql
+|   |   |       05 VW_NSDC_DISTRICT_PRIORITY.sql
+|   |   |       06 Allocated --Employer.sql
+|   |   |       07 Allocated -- TP.sql
+|   |   |       10 .. final data to share.sql
+|   |   |       District type 3 insert.sql
+|   |   |       District type insert.sql
+|   |   |       district type.xlsx
+|   |   |       Doc1.docx
+|   |   |       Employer target allocation 10.08.2019.xlsx
+|   |   |       maximum TC allowed.xlsx
+|   |   |       Target Allocation_v1  12.08.2019.xlsx
+|   |   |       TP target allocated 12.08.2019.xlsx
+|   |   |       
+|   |   +---12 Sept 2019-- Employer 600,1000, no limit
+|   |   |       01 NSDC_Allowed_TC_0827.sql
+|   |   |       02 Ranking.sql
+|   |   |       02 Ranking_1000.sql
+|   |   |       03 Allocated --Employer.sql
+|   |   |       03 Allocated --Employer_1000.sql
+|   |   |       03 Allocated --Employer_600.sql
+|   |   |       04 Allocated -- TP.sql
+|   |   |       05 VW_NSDC_DISTRICT_PRIORITY_v2.sql
+|   |   |       10 .. final data to share.sql
+|   |   |       district type1 insert.sql
+|   |   |       district type2 insert.sql
+|   |   |       district type3 insert.sql
+|   |   |       Employer only.xlsx
+|   |   |       target allocation v5 20190904 -- only existing.xlsx
+|   |   |       
+|   |   +---19 Aug 2019
+|   |   |       01 Ranking.sql
+|   |   |       02 NSDC_Allowed_TC_0819.sql
+|   |   |       04 NSDC_PriorityFactor.sql
+|   |   |       05 VW_NSDC_DISTRICT_PRIORITY.sql
+|   |   |       06 Allocated --Employer.sql
+|   |   |       07 Allocated -- TP.sql
+|   |   |       10 .. final data to share.sql
+|   |   |       District type 3 insert.sql
+|   |   |       District type insert.sql
+|   |   |       district type.xlsx
+|   |   |       maximum TC allowed.xlsx
+|   |   |       Target Allocation_v2  19.08.2019.xlsx
+|   |   |       UAT_20082019.docx
+|   |   |       
+|   |   +---22 Aug 2019
+|   |   |       01 NSDC_Allowed_TC_0819.sql
+|   |   |       02 Ranking.sql
+|   |   |       03 Allocated --Employer.sql
+|   |   |       04 Allocated -- TP.sql
+|   |   |       05 final data to share.sql
+|   |   |       14 NSDC_PriorityFactor.sql
+|   |   |       15 VW_NSDC_DISTRICT_PRIORITY.sql
+|   |   |       District type 3 insert.sql
+|   |   |       District type insert.sql
+|   |   |       district type.xlsx
+|   |   |       maximum TC allowed.xlsx
+|   |   |       UAT_20082019.docx
+|   |   |       
+|   |   \---26 Aug 2019
+|   |           01 NSDC_Allowed_TC_0827.sql
+|   |           02 Ranking.sql
+|   |           03 Allocated --Employer.sql
+|   |           04 Allocated -- TP.sql
+|   |           05 VW_NSDC_DISTRICT_PRIORITY_v2.sql
+|   |           10 .. final data to share.sql
+|   |           district type1 insert.sql
+|   |           district type2 insert.sql
+|   |           district type3 insert.sql
+|   |           target allocation v4 20190827.xlsx
+|   |           
+|   \---RFP Data
+|       |   Add aggriculture district.sql
+|       |   allowed district TP Led.sql
+|       |   allowed sector TP Led.sql
+|       |   Copy of Final_Districts + District Sector_TP Led Model.xlsx
+|       |   Copy of Final_Districts + District Sector_TP Led Model_27062019.xlsx
+|       |   Copy of List of districts for Agriculture Sector.xlsx
+|       |   Draft list of districts for TP led model.xlsx
+|       |   enable agriculture.sql
+|       |   Job Role List.xlsx
+|       |   Master data insert.sql
+|       |   master insert Smart table.sql
+|       |   NSDC TABLES.sql
+|       |   NSDC_STATE_SMART_TC_DETAIL.sql
+|       |   NSDC_STATE_SMART_TP.sql
+|       |   Rejected SDMS TC.sql
+|       |   Scenario.xlsx
+|       |   SDMS & Target data Rushi 12062019.xlsx
+|       |   sector insert.sql
+|       |   SMART_Recomendation_Report18-Jun-2019.xls
+|       |   State_PMKVY Data_18.06.2018.xlsx
+|       |   TP Details_1st Level of Non-Compliance_13.06.2019.xlsx
+|       |   TP Details_ATR_Monitoring_12.06.2019.xlsx
+|       |   trade insert.sql
+|       |   updated district name NSDC.sql
+|       |   working.sql
+|       |   
+|       +---done sheet
+|       |       Placement Reports.xlsx
+|       |       smart data.xlsb
+|       |       SMART_Recomendation_Report18-Jun-2019.xls
+|       |       
+|       \---master data mofiied
+|               Placement Reports.xlsx
+|               SDMS & Target data Rushi 12062019.xlsx
+|               SDMS & Target data Rushi 12062019_v2.xlsx
+|               
+\---RPL
+    |   03.03.2020 Declarations and Cost Calculation for PM System.docx
+    |   29.04.19 Proposal Mgt System Draft Requirements (002).docx
+    |   calculation.png
+    |   Compendium-of-Guidelines-and-amendments-for-RPL.pdf
+    |   Copy of 01.08.19 RPL_Doc_2.xls
+    |   Copy of 01.08.19 v2.xls
+    |   Copy of RPL 4 Eligibility Criteria.xlsx
+    |   Copy of RPL_Doc.xlsx
+    |   Costing new 2020.xlsx
+    |   ninja  star..png
+    |   ProjectApplicationFormunderRecognitionofPrioirLearning.docx
+    |   QP norms.xlsx
+    |   RPL4 Eligilibity Criteria Master.xlsx
+    |   Sample proposal Type 4.docx
+    |   Scoring matrix.xlsx
+    |   Type 5 EoI.xlsx
+    |   
+    \---Master
+            Cost Category.sql
+            costcaategory.sql
+            mdEligibilityCriteria.sql
+            MD_trade.sql
+            

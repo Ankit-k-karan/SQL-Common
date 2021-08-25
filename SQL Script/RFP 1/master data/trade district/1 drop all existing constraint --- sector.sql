@@ -1,0 +1,40 @@
+-------------------drop constraints ---- sector table
+alter table md_Prop_Trade  drop constraint FK__md_Prop_T__Secto__0BBF04A2
+alter table md_PropTradeTrainingCostCatMapping drop constraint FK_md_PropTradeTrainingCostCatMapping_md_Sectors
+alter table md_Sub_Sectors  drop constraint FK__md_Sub_Se__Secto__52EE3995
+alter table md_Trades drop constraint FK__md_Trades__Secto__4CAB505A
+alter table Pia_Trade_Experience drop constraint FK_md_Sectors_Pia_Trade_Experience_Sector
+alter table ppws_Prop_Trade drop constraint FK__ppws_Prop__Secto__6A46A039
+alter table ppws_Trade drop constraint FK__ppws_Trad__Secto__62A57E71
+alter table trd_Curriculum drop constraint FK__trd_Curri__Secto__660BFB01
+-------------------drop constraints ---- trade table
+
+alter table Curriculum_Design drop constraint FK_Curriculum_Design_md_Trades_Id
+alter table Curriculum_Module drop constraint FK_Curriculum_Module_TradeID
+alter table md_Prop_Trade drop constraint FK__md_Prop_T__Trade__78AC302E
+alter table md_PropTradeTrainingCostCatMapping drop constraint FK_md_PropTradeTrainingCostCatMapping_md_Trades
+alter table md_StateWiseTradeDuration drop constraint FK_md_StateWiseTradeDuration_md_Trades
+alter table MD_TRADE_DEP drop constraint fk_md_trades_dep_pid
+alter table MD_TRADE_DEP drop constraint fk_md_trades_pid
+alter table Pia_Trade_Experience drop constraint FK_md_Sectors_Pia_Trade_Experience_Trade
+alter table ppws_Trade drop constraint FK__ppws_Trad__Trade__1E505424
+alter table Proj_Trade_Dependency drop constraint FK__Proj_Trad__Trade__0EC7252D
+alter table projectTradeDtls drop constraint FK__projectTr__Trade__110DC9A4
+alter table Prop_Trade_Dependency drop constraint fk_Prop_Trade_Dependency_md_trades_pid
+alter table Prop_Trade_Dependency drop constraint fk_Prop_Trade_Dependency_pid
+alter table Prop_Training_Duration_Breakup drop constraint FK_Prop_Training_Duration_BreakupTradeId_md_trades
+alter table Prop_Training_Lodging drop constraint FK_Prop_Training_LodgingTradeId_md_trades
+alter table Prop_Training_PerposedTrade drop constraint FK_Prop_Training_PerposedTrade_Id_md_Trades
+alter table Prop_Training_Target_Distribution drop constraint FK_Prop_Training_Target_DistributionTradeId_md_trades
+alter table tbl_ProjectBatch drop constraint FK_tbl_ProjectBatch_TradeId_md_Trades_Id
+alter table MD_TRADE_DURATION drop constraint FK__MD_TRADE___TRADE__1D154484
+
+
+
+select * from md_Prop_Trade
+select * from Pia_Trade_Experience
+select * from Prop_Training_PerposedTrade
+
+---Done
+
+
